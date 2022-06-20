@@ -35,7 +35,7 @@
 #include <QtCore>
 #include <QtOpenGL>
 
-#include <QOpenGLFunctions_3_2_Core>
+#include <QOpenGLExtraFunctions>
 
 #include "base/database.h"
 #include "base/reconstruction.h"
